@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\bin\Debug\net6.0\StepanovExamPreparation.exe
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\bin\Debug\net6.0\StepanovExamPreparation.deps.json
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\bin\Debug\net6.0\StepanovExamPreparation.runtimeconfig.json
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\bin\Debug\net6.0\StepanovExamPreparation.dll
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\bin\Debug\net6.0\StepanovExamPreparation.pdb
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.dll
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\refint\StepanovExamPreparation.dll
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.pdb
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\StepanovExamPreparation.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\ExamenStepanov\StepanovExamPreparation\StepanovExamPreparation\obj\Debug\net6.0\ref\StepanovExamPreparation.dll
