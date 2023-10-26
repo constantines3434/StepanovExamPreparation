@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\bin\Debug\net6.0\Serialization.exe
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\bin\Debug\net6.0\Serialization.deps.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\bin\Debug\net6.0\Serialization.runtimeconfig.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\bin\Debug\net6.0\Serialization.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\bin\Debug\net6.0\Serialization.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\refint\Serialization.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\Serialization.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Serialization\obj\Debug\net6.0\ref\Serialization.dll

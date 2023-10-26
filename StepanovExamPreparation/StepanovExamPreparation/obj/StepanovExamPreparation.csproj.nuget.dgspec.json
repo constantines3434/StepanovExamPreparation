@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Constantine\\Desktop\\ExamenStepanov\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj": {}
+    "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Constantine\\Desktop\\ExamenStepanov\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj": {
+    "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Constantine\\Desktop\\ExamenStepanov\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj",
+        "projectUniqueName": "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj",
         "projectName": "StepanovExamPreparation",
-        "projectPath": "C:\\Users\\Constantine\\Desktop\\ExamenStepanov\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj",
+        "projectPath": "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation.csproj",
         "packagesPath": "C:\\Users\\Constantine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Constantine\\Desktop\\ExamenStepanov\\StepanovExamPreparation\\StepanovExamPreparation\\obj\\",
+        "outputPath": "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\StepanovExamPreparation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Constantine\\AppData\\Roaming\\NuGet\\NuGet.Config",

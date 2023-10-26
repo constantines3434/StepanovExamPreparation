@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDoS1cTmqvpLaf3PVEXFnZYbFSfLkn6MM7XUn+p9JhysRTL8qY1lg72+raFvTJQGX2gpV8YQIpjLfLHjAyfTSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\Ex1\\Ex1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

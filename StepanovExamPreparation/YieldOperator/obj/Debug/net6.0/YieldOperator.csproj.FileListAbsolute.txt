@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\bin\Debug\net6.0\YieldOperator.exe
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\bin\Debug\net6.0\YieldOperator.deps.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\bin\Debug\net6.0\YieldOperator.runtimeconfig.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\bin\Debug\net6.0\YieldOperator.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\bin\Debug\net6.0\YieldOperator.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\refint\YieldOperator.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\YieldOperator.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\YieldOperator\obj\Debug\net6.0\ref\YieldOperator.dll

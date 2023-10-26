@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4V1JAOxw96L3VGEZMwG/hCaca9Pp3hCDxvWqVLsPjYN3TveOC/SYCfZnISmSaXfhJkCBKLxJZzAncmAB0vO2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Constantine\\Desktop\\StepanovExamPreparation\\StepanovExamPreparation\\Ex2\\Ex2And3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
