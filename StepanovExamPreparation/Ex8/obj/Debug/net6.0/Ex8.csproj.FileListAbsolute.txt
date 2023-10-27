@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\bin\Debug\net6.0\Ex8.exe
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\bin\Debug\net6.0\Ex8.deps.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\bin\Debug\net6.0\Ex8.runtimeconfig.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\bin\Debug\net6.0\Ex8.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\bin\Debug\net6.0\Ex8.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\refint\Ex8.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\Ex8.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Ex8\obj\Debug\net6.0\ref\Ex8.dll

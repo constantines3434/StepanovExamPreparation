@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\bin\Debug\net6.0\SerializationTest.exe
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\bin\Debug\net6.0\SerializationTest.deps.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\bin\Debug\net6.0\SerializationTest.runtimeconfig.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\bin\Debug\net6.0\SerializationTest.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\bin\Debug\net6.0\SerializationTest.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\refint\SerializationTest.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\SerializationTest.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\SerializationTest\obj\Debug\net6.0\ref\SerializationTest.dll
