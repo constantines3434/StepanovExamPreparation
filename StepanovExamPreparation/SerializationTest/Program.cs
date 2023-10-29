@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text.Json;
+using System.Xml.Serialization;
 namespace SerializationTest
 {
     class Program
@@ -8,10 +9,12 @@ namespace SerializationTest
         {
             Data data = new Data(1, "Rouble", 1.488);
             Data data1 = new Data(2, "Euro", 6.66);
-            using (FileStream fs = new FileStream("data.json", FileMode.OpenOrCreate))
+
+            XmlSerializer serializer = new XmlSerializer(typeof(Data));
+            using (FileStream fs = new FileStream("data.xml", FileMode.OpenOrCreate))
             {
-                JsonSerializer.Serialize(fs, data);
-                JsonSerializer.Serialize(fs, data1);
+                serializer.Serialize(fs, data);
+                serializer.Serialize(fs, data1);
             }
         }        
     }

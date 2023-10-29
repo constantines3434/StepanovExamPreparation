@@ -62,7 +62,7 @@ namespace Ex14.Controllers
         /// </summary>
         /// <param name="id"></param>
         /// <param name="name"></param>
-        /// <param name="exchangeRates"></param>
+        /// <param name="exchangeRates"></param>ze
         [HttpPost, Route("AddDatas/{Name}")]
         public void AddData(int id, string name, double exchangeRates)
         {

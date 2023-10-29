@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\bin\Debug\net6.0\PatternBuilder.exe
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\bin\Debug\net6.0\PatternBuilder.deps.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\bin\Debug\net6.0\PatternBuilder.runtimeconfig.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\bin\Debug\net6.0\PatternBuilder.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\bin\Debug\net6.0\PatternBuilder.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\refint\PatternBuilder.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\PatternBuilder.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PatternBuilder\obj\Debug\net6.0\ref\PatternBuilder.dll

@@ -1,17 +1,4 @@
-
-namespace ASP
-{
-    public class Model
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-
-        public double ExchangeRate { get; set; }
-        public Model(int Id, string Name, double ExchangeRate)
-        {
-            this.Id = Id;
-            this.Name = Name;
-            this.ExchangeRate = ExchangeRate;
-        }
-    }
-}
+1) билдер +
+2) 11
+3) 12
+4) стэктрейс

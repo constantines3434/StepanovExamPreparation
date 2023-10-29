@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Id>1</Id>
+		<Name>Rouble</Name>
+		<ExchangeRates>1.488</ExchangeRates>
+	</Data>
+	<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	  <Id>2</Id>
+	  <Name>Euro</Name>
+	  <ExchangeRates>6.66</ExchangeRates>
+	</Data>
+</Root>

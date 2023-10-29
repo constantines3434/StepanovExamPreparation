@@ -7,12 +7,13 @@ using System.Text.Json;
 namespace SerializationTest
 {
     [Serializable]
-    class Data
+    public class Data
     {
         public int Id { get; set; }
         public string? Name { get; set; }
         public double? ExchangeRates { get; set; }
 
+        public Data() { }
         public Data(int Id, string? Name, double ExchangeRates)
         {
             this.Id = Id;
