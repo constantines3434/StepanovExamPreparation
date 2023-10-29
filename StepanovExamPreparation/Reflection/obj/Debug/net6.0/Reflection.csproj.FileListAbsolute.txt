@@ -1,0 +1,15 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\bin\Debug\net6.0\Reflection.exe
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\bin\Debug\net6.0\Reflection.deps.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\bin\Debug\net6.0\Reflection.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\bin\Debug\net6.0\Reflection.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.pdb
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\Reflection\obj\Debug\net6.0\ref\Reflection.dll

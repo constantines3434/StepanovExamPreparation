@@ -1,0 +1,5 @@
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PlaguinApi\obj\Debug\net6.0\PlaguinApi.csproj.AssemblyReference.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PlaguinApi\obj\Debug\net6.0\PlaguinApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PlaguinApi\obj\Debug\net6.0\PlaguinApi.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PlaguinApi\obj\Debug\net6.0\PlaguinApi.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\StepanovExamPreparation\StepanovExamPreparation\PlaguinApi\obj\Debug\net6.0\PlaguinApi.csproj.CoreCompileInputs.cache
